@@ -19,7 +19,7 @@ body {
 
 .header {
     background-image: linear-gradient(
-        rgba(0, 145, 174, 0.7),rgba(0, 145, 174, 0.7)),url(/assets/img/nam.jpg);
+        rgba(0, 145, 174, 0.7),rgba(0, 145, 174, 0.7)),url(assets/img/nam.jpg);
     background-position: center bottom;
     background-size: cover;
     min-height: 70vh;
@@ -152,7 +152,7 @@ body {
 
 .services {
     background-image: linear-gradient(
-        rgba(0, 145, 174, 0.7),rgba(0, 145, 174, 0.7)),url(/assets/img/nam.jpg);
+        rgba(0, 145, 174, 0.7),rgba(0, 145, 174, 0.7)),url(assets/img/nam.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -209,7 +209,7 @@ body {
 }
 
 .general-2 {
-    background-image: url(/assets/img/nam2.jpg);
+    background-image: url(assets/img/nam2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -217,7 +217,7 @@ body {
 }
 
 .general-3 {
-    background-image: url(/assets/img/nam3.jpg);
+    background-image: url(assets/img/nam3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
